@@ -1,0 +1,121 @@
+const festivalData = [
+  {
+    "id": 1,
+    "name": "Hard Summer",
+    "pricePoint": "$$",
+    "audience": "Young and hip college students",
+    "genre": "Rave",
+    "date": "2023-08-01",
+    "location": "Los Angeles",
+    "image":"",
+    "description":"A music festival in Southern California",
+    "submittedBy":"Sasha",
+    "submittedOn":"2022-09-04T14:48:00"
+  },
+  {
+    "id": 2,
+    "name": "Coachella Valley Music and Arts Festival",
+    "pricePoint": "$$$",
+    "audience": "Music lovers and art enthusiasts",
+    "genre": "Various genres",
+    "date": "2024-04-12",
+    "location": "Indio, California",
+    "image":"",
+    "description":"An annual music and arts festival known for its diverse lineup and iconic desert setting.",
+    "submittedBy":"Isabel",
+    "submittedOn":"2023-02-14T12:32:00"
+  },
+  {
+    "id": 3,
+    "name": "Lollapalooza",
+    "pricePoint": "$$$",
+    "audience": "Alternative music fans",
+    "genre": "Alternative, Hip Hop, EDM",
+    "date": "2024-07-28",
+    "location": "Chicago, Illinois",
+    "image":"",
+    "description":"A multi-genre music festival that takes place annually in Chicago’s Grant Park.",
+    "submittedBy":"Mario",
+    "submittedOn":"2022-09-13T11:01:00"
+  },
+  {
+    "id": 4,
+    "name": "Bonnaroo Music and Arts Festival",
+    "pricePoint": "$$$",
+    "audience": "Campers and festival-goers",
+    "genre": "Rock, Hip Hop, Electronic",
+    "date": "2024-06-13",
+    "location": "Manchester, Tennessee",
+    "image":"",
+    "description":"A four-day festival known for its eclectic lineup and positive vibes.",
+    "submittedBy":"Jason",
+    "submittedOn":"2023-03-10T05:23:00"
+  },
+  {
+    "id": 5,
+    "name": "Electric Daisy Carnival (EDC)",
+    "pricePoint": "$$$",
+    "audience": "Electronic dance music fans",
+    "genre": "EDM",
+    "date": "2024-05-17",
+    "location": "Las Vegas, Nevada",
+    "image":"",
+    "description":"The largest electronic dance music festival in North America.",
+    "submittedBy":"Pixie",
+    "submittedOn":"2011-10-10T14:48:00"
+  },
+  {
+    "id": 6,
+    "name": "Austin City Limits Music Festival",
+    "pricePoint": "$$$",
+    "audience": "Fans of live music",
+    "genre": "Rock, Pop, Indie",
+    "date": "2024-10-04",
+    "location": "Austin, Texas",
+    "image":"",
+    "description":"An annual music festival held in Austin’s Zilker Park, featuring a wide range of artists.",
+    "submittedBy":"Melody",
+    "submittedOn":"2011-10-10T14:48:00"
+  },
+  {
+    "id": 7,
+    "name": "Outside Lands",
+    "pricePoint": "$$$",
+    "audience": "Eco-conscious music lovers",
+    "genre": "Rock, Indie, Hip Hop",
+    "date": "2024-08-09",
+    "location": "San Francisco, California",
+    "image":"",
+    "description":"A festival that blends music, food, wine, and sustainability in Golden Gate Park.",
+    "submittedBy":"Grover",
+    "submittedOn":"2023-01-01T14:48:00"
+  },
+  {
+    "id": 8,
+    "name": "Stagecoach Festival",
+    "pricePoint": "$$",
+    "audience": "Country music fans",
+    "genre": "Country",
+    "date": "2024-04-26",
+    "location": "Indio, California",
+    "image":"",
+    "description":"A popular country music festival held at the same venue as Coachella.",
+    "submittedBy":"Marvin",
+    "submittedOn":"2023-04-01T07:02:00"
+  },
+  {
+    "id": 9,
+    "name": "Rolling Loud",
+    "pricePoint": "$$$",
+    "audience": "Hip Hop fans",
+    "genre": "Hip Hop",
+    "date": "2024-07-21",
+    "location": "Miami, Florida",
+    "image":"",
+    "description":"The world’s largest Hip Hop festival, featuring top artists in the genre.",
+    "submittedBy":"Brandon",
+    "submittedOn":"2023-01-10T14:48:00"
+  }
+];
+
+export default festivalData;
